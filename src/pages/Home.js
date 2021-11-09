@@ -13,7 +13,7 @@ function Home() {
             <br />
             <strong>Jeison Crespo</strong>
           </h1>
-          <p>Programador con gran pasión por el diseño y desarrollo web.</p>
+          <p>Un programador con gran pasión por el diseño y desarrollo web.</p>
           <Link to="/sobre-mi" className="noSelect">
             <button className="btn-primary noSelect">Ver más</button>
           </Link>
