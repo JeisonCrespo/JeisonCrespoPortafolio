@@ -13,14 +13,10 @@ function Home() {
             <br />
             <strong>Jeison Crespo</strong>
           </h1>
-<<<<<<< HEAD
-          <p>Un programador con gran pasión por el diseño y desarrollo web.</p>
-=======
           <p>
             Un programador con gran pasión por el desarrollo de aplicaciones web
             y moviles.
           </p>
->>>>>>> 1160d22 (actualizacion de react-router-dom)
           <Link to="/sobre-mi" className="noSelect">
             <button className="btn-primary noSelect">Ver más</button>
           </Link>

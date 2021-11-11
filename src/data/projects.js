@@ -14,8 +14,6 @@ export const projects = {
       play_store: false,
       app_store: false,
     },
-<<<<<<< HEAD
-=======
     {
       id: "BotDiscord",
       name: "Bot para discord",
@@ -30,7 +28,6 @@ export const projects = {
       play_store: false,
       app_store: false,
     },
->>>>>>> 1160d22 (actualizacion de react-router-dom)
   ],
   movil: [],
 };
