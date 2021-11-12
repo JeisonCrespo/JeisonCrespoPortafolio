@@ -14,8 +14,8 @@ function Home() {
             <strong>Jeison Crespo</strong>
           </h1>
           <p>
-            Un programador con gran pasión por el desarrollo de aplicaciones web
-            y moviles.
+            Un programador con gran pasión por el desarrollo de aplicaciones
+            movil y web.
           </p>
           <Link to="/sobre-mi" className="noSelect">
             <button className="btn-primary noSelect">Ver más</button>
