@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-// import me from '../img/me.jpg'
+// import me from '../img/me.png'
 
 function SobreMi() {
   return (
@@ -59,7 +59,7 @@ function SobreMi() {
             </div>
           </div>
           <div className="sobre-mi-img">
-            <img src="/img/me.jpg" /* {me} */ alt="Jeison Crespo" />
+            <img src="/img/me.png" /* {me} */ alt="Jeison Crespo" />
           </div>
         </div>
       </div>
