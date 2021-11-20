@@ -9,21 +9,21 @@ function SobreMi() {
         <div className="gradient-border" id="box">
           <div className="sobre-mi-info">
             <h1>
-              Sobre mí <>🚀</>
+              Sobre mí <></>
             </h1>
             <br />
             <p>
               Hola, mi nombre es Jeison Alexander Crespo Mendoza, tengo 23 años,
-              actualmente estudio para ser desarrollador fullstack. Me considero
-              una persona muy creativa y autodidacta. A la fecha tengo
-              conocimientos amplios en HTML5, CSS3 y JavaScript junto con
-              librerías como React JS, preprocesadores de CSS como SASS,
-              Responsive Design, maquetación con CSS Grid Layoud y Flexbox, etc.
+              soy un desarrollador fullstack. Me considero una persona muy
+              creativa y autodidacta. A la fecha tengo conocimientos amplios en
+              HTML5, CSS3 y JavaScript junto con librerías como React JS,
+              preprocesadores de CSS como SASS, Responsive Design, maquetación
+              con CSS Grid Layoud y Flexbox, etc.
             </p>
             <br />
             <br />
             <h1>
-              Mis habilidades <>🌌</>
+              Mis habilidades <></>
             </h1>
             <br />
             <div className="list-info-sobremi">
