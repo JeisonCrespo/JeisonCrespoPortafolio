@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8583e5b4f763655a8438f940d7bbc97c",
+    "revision": "59dec7a62cf98262100b1742fbc61327",
     "url": "/JeisonCrespoPortafolio/index.html"
   },
   {
-    "revision": "d98f7f6af0a4c6a4cd9e",
+    "revision": "3572e9cf2dff7fb5b383",
     "url": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css"
   },
   {
-    "revision": "5aba92ffa9b198e126ff",
-    "url": "/JeisonCrespoPortafolio/static/js/2.0a6a7140.chunk.js"
+    "revision": "6a1041c0de9364dd8d00",
+    "url": "/JeisonCrespoPortafolio/static/js/2.937feb1c.chunk.js"
   },
   {
-    "revision": "ed961b1d682fddd39f72e5d7dd46c4a2",
-    "url": "/JeisonCrespoPortafolio/static/js/2.0a6a7140.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/JeisonCrespoPortafolio/static/js/2.937feb1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d98f7f6af0a4c6a4cd9e",
-    "url": "/JeisonCrespoPortafolio/static/js/main.840189ec.chunk.js"
+    "revision": "3572e9cf2dff7fb5b383",
+    "url": "/JeisonCrespoPortafolio/static/js/main.16fdde5d.chunk.js"
   },
   {
     "revision": "97ebf569c7cda930077f",
