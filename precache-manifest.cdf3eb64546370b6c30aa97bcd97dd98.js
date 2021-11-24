@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f51b5153475cbe172d058091369c476e",
+    "revision": "3e2cf828da96ed35f350aa6b3f0e3220",
     "url": "/JeisonCrespoPortafolio/index.html"
   },
   {
-    "revision": "faba8a54e05fbfc84ec0",
+    "revision": "ccbfac54719b9c1b3192",
     "url": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css"
   },
   {
-    "revision": "5983f4b8d00e02777587",
-    "url": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js"
+    "revision": "fc0a03a26a1308034ad0",
+    "url": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js.LICENSE.txt"
+    "url": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "faba8a54e05fbfc84ec0",
-    "url": "/JeisonCrespoPortafolio/static/js/main.f7861c96.chunk.js"
+    "revision": "ccbfac54719b9c1b3192",
+    "url": "/JeisonCrespoPortafolio/static/js/main.7e682334.chunk.js"
   },
   {
     "revision": "97ebf569c7cda930077f",

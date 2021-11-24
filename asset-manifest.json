@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css",
-    "main.js": "/JeisonCrespoPortafolio/static/js/main.f7861c96.chunk.js",
-    "main.js.map": "/JeisonCrespoPortafolio/static/js/main.f7861c96.chunk.js.map",
+    "main.js": "/JeisonCrespoPortafolio/static/js/main.7e682334.chunk.js",
+    "main.js.map": "/JeisonCrespoPortafolio/static/js/main.7e682334.chunk.js.map",
     "runtime-main.js": "/JeisonCrespoPortafolio/static/js/runtime-main.ee654af0.js",
     "runtime-main.js.map": "/JeisonCrespoPortafolio/static/js/runtime-main.ee654af0.js.map",
-    "static/js/2.27d61abb.chunk.js": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js",
-    "static/js/2.27d61abb.chunk.js.map": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js.map",
+    "static/js/2.8ef0302b.chunk.js": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js",
+    "static/js/2.8ef0302b.chunk.js.map": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js.map",
     "index.html": "/JeisonCrespoPortafolio/index.html",
-    "precache-manifest.d2fd10e57ab4fbcc576d4d6ef4befcd8.js": "/JeisonCrespoPortafolio/precache-manifest.d2fd10e57ab4fbcc576d4d6ef4befcd8.js",
+    "precache-manifest.cdf3eb64546370b6c30aa97bcd97dd98.js": "/JeisonCrespoPortafolio/precache-manifest.cdf3eb64546370b6c30aa97bcd97dd98.js",
     "service-worker.js": "/JeisonCrespoPortafolio/service-worker.js",
     "static/css/main.3b08025a.chunk.css.map": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css.map",
-    "static/js/2.27d61abb.chunk.js.LICENSE.txt": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js.LICENSE.txt",
+    "static/js/2.8ef0302b.chunk.js.LICENSE.txt": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js.LICENSE.txt",
     "static/media/index.css": "/JeisonCrespoPortafolio/static/media/youtube.195d87a9.svg",
     "static/media/flores.svg": "/JeisonCrespoPortafolio/static/media/flores.3ee26ec2.svg",
     "static/media/jeisoncrespo.png": "/JeisonCrespoPortafolio/static/media/jeisoncrespo.d0205110.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.ee654af0.js",
-    "static/js/2.27d61abb.chunk.js",
+    "static/js/2.8ef0302b.chunk.js",
     "static/css/main.3b08025a.chunk.css",
-    "static/js/main.f7861c96.chunk.js"
+    "static/js/main.7e682334.chunk.js"
   ]
 }
