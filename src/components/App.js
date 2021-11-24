@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { HashRouter, Route, Switch } from "react-router-dom";
 import Layout from "./Layout";
 import Home from "../pages/Home";
 import Proyectos from "../pages/Proyectos";
@@ -12,7 +12,7 @@ import Hosting from "../pages/Hosting";
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Layout>
         <Switch>
           <Route exact path="/" component={Home} />
@@ -29,7 +29,7 @@ function App() {
           <Route component={NotFound} />
         </Switch>
       </Layout>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 

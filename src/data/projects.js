@@ -6,8 +6,8 @@ export const projects = {
       description:
         "Es un sitio web donde puedes encontrar gran parte de mis proyectos, del cual estoy muy orgulloso.",
       technologies: ["React"],
-      img: "/img/jeisoncrespo-web.png",
-      img_details: "/img/jeisoncrespo-web.png",
+      img: "/img/-web.png",
+      img_details: "",
       type: "Web",
       link: "https://jeisoncrespo.github.io/JeisonCrespoPortafolio/",
       github_link: "https://github.com/JeisonCrespo/JeisonCrespoPortafolio",
@@ -16,7 +16,7 @@ export const projects = {
     },
     {
       id: "BotDiscord",
-      name: "Miku Bot discord",
+      name: "Miku Bot Discord",
       description:
         "Un bot creado para interaccion y musica en la plaforma discord",
       technologies: ["JS"],
@@ -39,6 +39,20 @@ export const projects = {
       type: "Web",
       link: "https://jeisoncrespo.github.io/rick-morty-vanilla/index.html",
       github_link: "https://github.com/JeisonCrespo/rick-morty-vanilla",
+      play_store: false,
+      app_store: false,
+    },
+    {
+      id: "candy-crush-react",
+      name: "Candy Crush React",
+      description:
+        "Candy Crush es una pagina recreando el juego con react (solo funciona en navegador)",
+      technologies: ["HTML5", "CSS3", "Javascript"],
+      img: "/img/rick-and-morty.png",
+      img_details: "/img/rick-and-morty-details.png",
+      type: "Web",
+      link: "https://jeisoncrespo.github.io/candy-crush-react/",
+      github_link: "https://github.com/JeisonCrespo/candy-crush-react",
       play_store: false,
       app_store: false,
     },
