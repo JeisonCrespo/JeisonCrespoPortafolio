@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59dec7a62cf98262100b1742fbc61327",
+    "revision": "f51b5153475cbe172d058091369c476e",
     "url": "/JeisonCrespoPortafolio/index.html"
   },
   {
-    "revision": "3572e9cf2dff7fb5b383",
+    "revision": "faba8a54e05fbfc84ec0",
     "url": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css"
   },
   {
-    "revision": "6a1041c0de9364dd8d00",
-    "url": "/JeisonCrespoPortafolio/static/js/2.937feb1c.chunk.js"
+    "revision": "5983f4b8d00e02777587",
+    "url": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/JeisonCrespoPortafolio/static/js/2.937feb1c.chunk.js.LICENSE.txt"
+    "url": "/JeisonCrespoPortafolio/static/js/2.27d61abb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3572e9cf2dff7fb5b383",
-    "url": "/JeisonCrespoPortafolio/static/js/main.16fdde5d.chunk.js"
+    "revision": "faba8a54e05fbfc84ec0",
+    "url": "/JeisonCrespoPortafolio/static/js/main.f7861c96.chunk.js"
   },
   {
     "revision": "97ebf569c7cda930077f",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "17c35bdbc2cda707ae7bca0269294f6b",
     "url": "/JeisonCrespoPortafolio/static/media/macbook.17c35bdb.png"
+  },
+  {
+    "revision": "6df2dd79b6726ca8f89e02f2fcf9ac35",
+    "url": "/JeisonCrespoPortafolio/static/media/me.6df2dd79.png"
   },
   {
     "revision": "643491ae8959e59ffe1f37795089aa4d",
