@@ -15,7 +15,7 @@ function Home() {
           </h1>
           <p>
             Un programador con gran pasión por el desarrollo de aplicaciones
-            movil y web.
+            moviles y web.
           </p>
           <Link to="/sobre-mi" className="noSelect">
             <button className="btn-primary noSelect">Ver más</button>

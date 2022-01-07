@@ -6,7 +6,7 @@ export const projects = {
       description:
         "Es un sitio web donde puedes encontrar gran parte de mis proyectos, del cual estoy muy orgulloso.",
       technologies: ["React"],
-      img: "/img/-web.png",
+      img: "/img/jeisoncrespo-web-png",
       img_details: "",
       type: "Web",
       link: "https://jeisoncrespo.github.io/JeisonCrespoPortafolio/",

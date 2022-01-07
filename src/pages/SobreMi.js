@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import me from "../img/me.png";
+// import me from "../img/me.png";
 
 function SobreMi() {
   return (
@@ -57,9 +57,6 @@ function SobreMi() {
                 Ver Proyectos
               </Link>
             </div>
-          </div>
-          <div className="sobre-mi-img">
-            <img src={me} /* {me} */ alt="Jeison Crespo" />
           </div>
         </div>
       </div>
