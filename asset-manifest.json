@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css",
-    "main.js": "/JeisonCrespoPortafolio/static/js/main.7e682334.chunk.js",
-    "main.js.map": "/JeisonCrespoPortafolio/static/js/main.7e682334.chunk.js.map",
+    "main.css": "/JeisonCrespoPortafolio/static/css/main.4a95ccd5.chunk.css",
+    "main.js": "/JeisonCrespoPortafolio/static/js/main.a0112f6f.chunk.js",
+    "main.js.map": "/JeisonCrespoPortafolio/static/js/main.a0112f6f.chunk.js.map",
     "runtime-main.js": "/JeisonCrespoPortafolio/static/js/runtime-main.ee654af0.js",
     "runtime-main.js.map": "/JeisonCrespoPortafolio/static/js/runtime-main.ee654af0.js.map",
-    "static/js/2.8ef0302b.chunk.js": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js",
-    "static/js/2.8ef0302b.chunk.js.map": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js.map",
+    "static/js/2.b4ce57d7.chunk.js": "/JeisonCrespoPortafolio/static/js/2.b4ce57d7.chunk.js",
+    "static/js/2.b4ce57d7.chunk.js.map": "/JeisonCrespoPortafolio/static/js/2.b4ce57d7.chunk.js.map",
     "index.html": "/JeisonCrespoPortafolio/index.html",
-    "precache-manifest.cdf3eb64546370b6c30aa97bcd97dd98.js": "/JeisonCrespoPortafolio/precache-manifest.cdf3eb64546370b6c30aa97bcd97dd98.js",
+    "precache-manifest.a982395055b15d0eda89c528736a77e0.js": "/JeisonCrespoPortafolio/precache-manifest.a982395055b15d0eda89c528736a77e0.js",
     "service-worker.js": "/JeisonCrespoPortafolio/service-worker.js",
-    "static/css/main.3b08025a.chunk.css.map": "/JeisonCrespoPortafolio/static/css/main.3b08025a.chunk.css.map",
-    "static/js/2.8ef0302b.chunk.js.LICENSE.txt": "/JeisonCrespoPortafolio/static/js/2.8ef0302b.chunk.js.LICENSE.txt",
+    "static/css/main.4a95ccd5.chunk.css.map": "/JeisonCrespoPortafolio/static/css/main.4a95ccd5.chunk.css.map",
+    "static/js/2.b4ce57d7.chunk.js.LICENSE.txt": "/JeisonCrespoPortafolio/static/js/2.b4ce57d7.chunk.js.LICENSE.txt",
     "static/media/index.css": "/JeisonCrespoPortafolio/static/media/youtube.195d87a9.svg",
     "static/media/flores.svg": "/JeisonCrespoPortafolio/static/media/flores.3ee26ec2.svg",
     "static/media/jeisoncrespo.png": "/JeisonCrespoPortafolio/static/media/jeisoncrespo.d0205110.png",
     "static/media/logo.png": "/JeisonCrespoPortafolio/static/media/logo.c6a21cea.png",
-    "static/media/macbook.png": "/JeisonCrespoPortafolio/static/media/macbook.17c35bdb.png",
-    "static/media/me.png": "/JeisonCrespoPortafolio/static/media/me.6df2dd79.png"
+    "static/media/macbook.png": "/JeisonCrespoPortafolio/static/media/macbook.17c35bdb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee654af0.js",
-    "static/js/2.8ef0302b.chunk.js",
-    "static/css/main.3b08025a.chunk.css",
-    "static/js/main.7e682334.chunk.js"
+    "static/js/2.b4ce57d7.chunk.js",
+    "static/css/main.4a95ccd5.chunk.css",
+    "static/js/main.a0112f6f.chunk.js"
   ]
 }
